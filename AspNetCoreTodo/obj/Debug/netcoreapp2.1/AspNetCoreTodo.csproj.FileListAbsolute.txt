@@ -35,3 +35,4 @@
 /Users/weiyan/hack/dotnet/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.1/AspNetCoreTodo.pdb
 /Users/weiyan/hack/dotnet/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.1/AspNetCoreTodo.csproj.CopyComplete
 /Users/weiyan/hack/dotnet/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.1/Razor/Views/Todo/Index.g.cshtml.cs
+/Users/weiyan/hack/dotnet/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.1/Razor/Views/Todo/AddItemPartial.g.cshtml.cs
